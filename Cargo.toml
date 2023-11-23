@@ -13,7 +13,7 @@ description = "Simple coordinate transforms for embedded display drivers"
 readme = "README.md"
 
 [dependencies]
-embedded-graphics-core = "0.3.3"
+embedded-graphics-core = "0.4"
 
 [dev-dependencies]
-embedded-graphics = "0.7"
+embedded-graphics = "0.8"
